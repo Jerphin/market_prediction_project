@@ -1,1 +1,0 @@
-# market_prediction_project
